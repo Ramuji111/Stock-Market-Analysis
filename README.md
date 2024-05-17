@@ -11,7 +11,7 @@ StockStream is a Streamlit web application that allows users to visualize stock 
 ## Installation
 
 Clone the repository:
-git clone https://github.com/Ramuji111/StockStream.git
+git clone https://github.com/Ramuji111/Stock-Market-Analysis
 cd StockStream
 
 Install the required dependencies:
