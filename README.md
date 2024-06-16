@@ -13,7 +13,7 @@ Stock Market Analysis is a Streamlit web application that allows users to visual
 Clone the repository:
 git clone https://github.com/Ramuji111/Stock-Market-Analysis
 
-cd StockStream
+cd Stock-Market-Analysis
 
 Install the required dependencies:
 pip install -r requirements.txt
