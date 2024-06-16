@@ -1,6 +1,6 @@
-# StockStream
+# Stock Market Analysis
 
-StockStream is a Streamlit web application that allows users to visualize stock performance comparisons, real-time stock prices, and stock price predictions using yFinance and Prophet libraries.
+Stock Market Analysis is a Streamlit web application that allows users to visualize stock performance comparisons, real-time stock prices, and stock price predictions using yFinance and Prophet libraries.
 
 ## Features
 
